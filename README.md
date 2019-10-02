@@ -1,0 +1,2 @@
+# brick
+Document Factory Component
